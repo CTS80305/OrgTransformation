@@ -1,2 +1,6 @@
-# organizational-effectiveness
-Executive portfolio showcasing AI transformation, organizational effectiveness, enterprise change management, workforce strategy, and leadership insights. Includes Executive Briefs, case studies, presentations, and practical frameworks demonstrating how I help organizations navigate complex transformation.
+Christina Tangora Schlachter, PhD
+AI Transformation • Organizational Effectiveness • Enterprise Change
+Helping organizations navigate complex transformation by aligning people, process, technology, and strategy.
+Professional Portfolio
+This repository contains a collection of Executive Briefs, frameworks, and thought leadership demonstrating practical approaches to AI transformation, organizational effectiveness, workforce strategy, organizational design, and enterprise change.
+www.linkedin.com/in/christinatangora

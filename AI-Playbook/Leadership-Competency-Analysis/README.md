@@ -36,8 +36,10 @@ This workflow shows how AI can support organizational effectiveness by transform
 
 AI handles information. People provide judgment.
 
-## Where Human Judgment Matters
+## Human-in-the-Loop
 
-AI is highly effective at organizing information, identifying patterns, and accelerating synthesis.
+AI accelerates analysis, synthesis, and pattern recognition.
 
-Human expertise remains essential for interpreting organizational context, validating conclusions, understanding culture, navigating stakeholder dynamics, and 
+Human expertise remains essential for interpreting organizational context, validating conclusions, navigating stakeholder dynamics, and making leadership decisions.
+
+The best outcomes occur when AI augments—not replaces—human judgment.

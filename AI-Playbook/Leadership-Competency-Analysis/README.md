@@ -35,3 +35,9 @@ This workflow shows how AI can support organizational effectiveness by transform
 ## Core Principle
 
 AI handles information. People provide judgment.
+
+## Where Human Judgment Matters
+
+AI is highly effective at organizing information, identifying patterns, and accelerating synthesis.
+
+Human expertise remains essential for interpreting organizational context, validating conclusions, understanding culture, navigating stakeholder dynamics, and 

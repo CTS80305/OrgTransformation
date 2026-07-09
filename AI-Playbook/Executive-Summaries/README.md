@@ -35,18 +35,11 @@ This prompt pattern helps transform large volumes of qualitative or quantitative
 
 ---
 
-## Human Review
-
-AI supports synthesis.
-
-Human judgment validates accuracy, context, and recommendations before sharing with stakeholders.
-
----
-
 ## Lessons Learned
 
 The quality of the output depends more on the structure of the prompt and the quality of the source material than on the AI model itself.
 
+---
 
 ## Human-in-the-Loop
 
